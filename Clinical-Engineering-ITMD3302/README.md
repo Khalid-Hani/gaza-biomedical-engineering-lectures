@@ -37,7 +37,7 @@ https://www.amazon.com/dp/0128181036
 
 ### المحاضرات المصورة
 
-[مشاهدة قائمة محاضرات الهندسة السريرية على يوتيوب](PASTE_CLINICAL_ENGINEERING_PLAYLIST_URL_HERE)
+[مشاهدة قائمة محاضرات الهندسة السريرية على يوتيوب](https://youtube.com/playlist?list=PLahAfAiN70rgxZYjppGs50oRs3jk9MvDm&si=4_pRT966ZFW9jJNA)
 
 ### المرجع الرئيسي
 
