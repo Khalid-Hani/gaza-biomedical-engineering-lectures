@@ -1,7 +1,3 @@
-# gaza-biomedical-engineering-lectures
-Voluntary educational materials supporting biomedical engineering students at Al-Azhar University, Gaza.
-
-
 # Biomedical Engineering Lectures - Gaza
 
 ### Voluntary Educational Initiative | 2025-2026
